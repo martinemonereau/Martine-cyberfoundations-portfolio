@@ -1,5 +1,5 @@
 # Week 1 — Onboarding
-
+I’m a Third-Party Risk Analyst in the data center industry with a growing interest in technology and cybersecurity. I’m currently focused on expanding my technical skill set and building a stronger foundation in areas such as cybersecurity principles, risk management, data protection, and emerging technologies. My goal is to deepen my understanding of how technology, security, and third-party risk intersect while continuing to grow professionally in the cybersecurity field.
 ---
 
 ## Focus
